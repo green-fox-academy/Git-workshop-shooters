@@ -8,9 +8,10 @@ namespace gittrayning
 {
     class BClass
     {
-        public void Count()
+        public void Count(string date)
         {
-            Console.WriteLine("My age is 32");
+            date = "My age is 32";
+            Console.WriteLine(date);
         }
     }
 }
