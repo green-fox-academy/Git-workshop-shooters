@@ -10,7 +10,10 @@ namespace gittrayning
     {
         public string Cheer(string firstParam)
         {
+
             return "czech republic";
+
+            return $"C# shooters {firstParam}";
         }
     }
 }
