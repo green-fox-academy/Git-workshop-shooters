@@ -10,7 +10,7 @@ namespace gittrayning
     {
         public string Cheer()
         {
-            return "C# shooters";
+            return "czech republic";
         }
     }
 }
