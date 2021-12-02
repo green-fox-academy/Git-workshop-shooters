@@ -10,7 +10,7 @@ namespace gittrayning
     {
         public string Cheer(string firstParam)
         {
-            return "czech republic";
+            return $"Cheer for the {firstParam}";
         }
     }
 }
