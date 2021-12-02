@@ -8,10 +8,10 @@ namespace gittrayning
 {
     class ClassA
     {
-        public void Greet()
+        public void Greet(string greet)
         {
-
-            Console.WriteLine("Greetings!");
+            greet = "Greetings!";
+            Console.WriteLine(greet);
         }
     }
 }
