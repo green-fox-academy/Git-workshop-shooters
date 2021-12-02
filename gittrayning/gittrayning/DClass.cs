@@ -10,7 +10,7 @@ namespace gittrayning
     {
         public static void Future()
         {
-            Console.WriteLine("Your future looks like parameter");
+            Console.WriteLine("Your future looks like parameter.");
         }
     }
 }
