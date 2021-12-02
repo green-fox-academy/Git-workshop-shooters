@@ -9,10 +9,11 @@ namespace gittrayning
     class BClass
     {
         
-        public void Count(string date)
+        public void Count(string date,string year)
         {
             date = "11";
-            Console.WriteLine(date);
+            year = "1989";
+            Console.WriteLine($"Counting the countless{year}");
         }
     }
 }

@@ -8,9 +8,9 @@ namespace gittrayning
 {
     class DClass
     {
-        public static void Future()
+        public static void Future(string greeting, string name)
         {
-            Console.WriteLine("rat");
+            Console.WriteLine($"{greeting} + {name}");
         }
     }
 }
