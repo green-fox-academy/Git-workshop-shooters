@@ -8,10 +8,9 @@ namespace gittrayning
 {
     class ClassA
     {
-        public void Greet()
+        public void Greet(string input1, string input2)
         {
-
-            Console.WriteLine("Greetings!");
+            Console.WriteLine($"{input1} {input2}");
         }
     }
 }

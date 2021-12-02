@@ -9,7 +9,7 @@ namespace gittrayning
     class BClass
     {
         
-        public void Count(string date)
+        public void Count(string date,string year)
         {
             date = "11";
             year = "1989";
