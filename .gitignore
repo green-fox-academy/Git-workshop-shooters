@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/gittrayning/.vs/gittrayning/v16
+/gittrayning/gittrayning/obj
