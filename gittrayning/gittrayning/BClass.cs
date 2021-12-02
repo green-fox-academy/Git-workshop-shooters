@@ -12,7 +12,8 @@ namespace gittrayning
         public void Count(string date)
         {
             date = "11";
-            Console.WriteLine(date);
+            year = "1989";
+            Console.WriteLine($"Counting the countless{year}");
         }
     }
 }
