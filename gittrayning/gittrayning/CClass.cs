@@ -8,9 +8,9 @@ namespace gittrayning
 {
     class Cclass
     {
-        public string Cheer()
+        public string Cheer(string firstParam)
         {
-            return "C# shooters";
+            return $"C# shooters {firstParam}";
         }
     }
 }
