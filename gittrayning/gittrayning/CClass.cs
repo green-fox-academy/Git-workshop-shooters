@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace gittrayning
 {
-    class cheer
+    class Cclass
     {
-        public string NameOfTheTeam()
+        public string Cheer()
         {
             return "C# shooters";
         }
