@@ -8,7 +8,7 @@ namespace gittrayning
 {
     class Cclass
     {
-        public string Cheer()
+        public string Cheer(string firstParam)
         {
             return "czech republic";
         }
